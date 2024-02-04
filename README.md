@@ -3,4 +3,7 @@
 
 2023.08.28  
 1.learn the principle.   
-2.purchase the material.  
+2.purchase the material.   
+
+ if it works, please do not touch that.    
+ 
